@@ -1,0 +1,3 @@
+include ':AndroidCV-SDK'
+include ':makiahsandroidlib'
+include ':app'
